@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae278343-83a1-483e-be79-12ea46495db2" name="Default Changelist" comment="Heroku start" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21Na1v1kQ1mCPXscePRDFOZkjSz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae278343-83a1-483e-be79-12ea46495db2" name="Default Changelist" comment="" />
+      <created>1637783787144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637783787144</updated>
+      <workItem from="1637783789754" duration="7083000" />
+      <workItem from="1637835257213" duration="12950000" />
+      <workItem from="1637884557474" duration="5282000" />
+      <workItem from="1637927268962" duration="17774000" />
+      <workItem from="1638015330371" duration="18895000" />
+      <workItem from="1638093218076" duration="22986000" />
+      <workItem from="1638132115262" duration="1158000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added the basic steps of the bot">
+      <created>1637794094179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637794094179</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Described the choice of &quot;Others&quot;">
+      <created>1637889539863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637889539863</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Made a branch to PD">
+      <created>1637961232631</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637961232631</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Wrote a branch of Seasonal things">
+      <created>1637977385461</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637977385461</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated the database">
+      <created>1637977699611</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637977699611</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add PD">
+      <created>1638021251616</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638021251616</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Contacts">
+      <created>1638054539469</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638054539469</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Did the validation">
+      <created>1638122293572</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638122293573</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Heroku start">
+      <created>1638132902709</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1638132902709</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Heroku start">
+      <created>1638132967604</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1638132967604</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Heroku start">
+      <created>1638133266393</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1638133266393</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the basic steps of the bot" />
+    <MESSAGE value="Described the choice of &quot;Others&quot;" />
+    <MESSAGE value="Made a branch to PD" />
+    <MESSAGE value="Wrote a branch of Seasonal things" />
+    <MESSAGE value="Updated the database" />
+    <MESSAGE value="Add PD" />
+    <MESSAGE value="Added Contacts" />
+    <MESSAGE value="Did the validation" />
+    <MESSAGE value="Heroku start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Heroku start" />
+  </component>
+</project>

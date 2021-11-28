@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae278343-83a1-483e-be79-12ea46495db2" name="Default Changelist" comment="Heroku start" />
+    <list default="true" id="ae278343-83a1-483e-be79-12ea46495db2" name="Default Changelist" comment="Heroku start">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/self_storage/self_storage/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/self_storage/self_storage/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +44,7 @@
       <workItem from="1637927268962" duration="17774000" />
       <workItem from="1638015330371" duration="18895000" />
       <workItem from="1638093218076" duration="22986000" />
-      <workItem from="1638132115262" duration="1158000" />
+      <workItem from="1638132115262" duration="2133000" />
     </task>
     <task id="LOCAL-00001" summary="Added the basic steps of the bot">
       <created>1637794094179</created>

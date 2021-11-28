@@ -19,7 +19,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = secret_key
 
-DEBUG = env.bool('DEBUG', True)
+DEBUG = env.bool('DEBUG', False)
 ALLOWED_HOSTS = allowed_hosts
 
 # Application definition
